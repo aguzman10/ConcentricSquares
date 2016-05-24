@@ -1,3 +1,8 @@
+/*
+*Simple program I made as a homework assignment for my computer graphics class at UTD
+*@author Alejandro Guzman
+*Software Engineering major - UTD
+*/
 import java.awt.*; //import needed to use the canvas extention
 import java.math.*; // import needed to use the power function
 import java.awt.event.*; // import needed to use the window listener
